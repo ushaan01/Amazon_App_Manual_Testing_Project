@@ -108,5 +108,7 @@ To validate the Amazon shopping workflow through manual testing, ensuring smooth
 | Domain: | E-commerce Website Testing |
 
 | Tools Used: | Excel, Word |
+
+| Project Type           | Practice Project  |
  
 
